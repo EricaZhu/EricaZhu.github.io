@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Still building website"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Please come back in a week"
-    url: /
+  - title: "Activities"
+    url: /activities/
+    
+  - title: "Fun Facts"
+    url: /facts/
+  
+  - title: "Resume"
+    url: /resume/
